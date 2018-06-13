@@ -1,18 +1,22 @@
 # John Andrew Wolfe
 
 6878 Appleton Drive Fayetteville, PA 17222
+
 304-596-1509
+
 awolfe76@gmail.com
 
 Personal GitHub Account: https://github.com/awolfe76
-Personal Site: https://awolfe76.github.com
-Dribbble Account: http://dribbble.com/awolfe76
 
+Personal Site: https://awolfe76.github.com
+
+Dribbble Account: http://dribbble.com/awolfe76
 
 ## Education
 
 #### Bachelors in Computer Science (Information Systems)
-Minor in Business Administration
+_Minor in Business Administration_
+
 2002 – Frostburg State University, Frostburg, MD 
 
 #### Associates in Computer Science
@@ -22,17 +26,17 @@ Minor in Business Administration
 ## Experience
 
 #### Lead Front-End Web Developer (HMDA Operations)
-December 2014 to Present – The Bureau of Consumer Financial Protection
+December 2014 to Present – [The Bureau of Consumer Financial Protection](https://www.consumerfinance.gov/)
 
 __Highlights__
 * Led the front-end development to the successful release of the HMDA Filing Platform on January 1, 2018
-o Through January 1st to March 1st the HMDA Filing Platform successfully processed HMDA files for nearly 6,000 financial institutions containing over 14 million loan/application register (LAR)
-o The platform improved the processing time per file from months to minutes for most filers and hours for large filers
+  * Through January 1st to March 1st the [HMDA Filing Platform](https://ffiec.cfpb.gov) successfully processed HMDA files for nearly 6,000 financial institutions containing over 14 million loan/application register (LAR)
+  * The platform improved the processing time per file from months to minutes for most filers and hours for large filers
 * Successfully ran a beta version of the HMDA Filing Platform and, based on user testing, implemented enhancements and bug fixes prior to the Congressionally mandated release date of January 1, 2018
 * Have assisted in building, testing, and releasing more than 8 applications/tools related to HMDA filing and publication 
-o Developed several “small tools” to assist HMDA filers in preparing their HMDA files; File Format Verification Tool (FFVT), Rate Spread Calculator, Check Digit Tool, and the LAR Formatting Tool
-o Published data from HMDA filings including the modified LAR, Snapshot National Loan-Level Dataset, Disclosure Reports, and MSA/MD Aggregate Reports
- Decreased time to data publication by months compared to previous HMDA filing periods
+  * Developed several “small tools” to assist HMDA filers in preparing their HMDA files; [File Format Verification Tool (FFVT)](https://ffiec.cfpb.gov/tools/file-format-verification), [Rate Spread Calculator](https://ffiec.cfpb.gov/tools/rate-spread), [Check Digit Tool](https://ffiec.cfpb.gov/tools/check-digit), and the [LAR Formatting Tool](https://ffiec.cfpb.gov/tools/lar-formatting)
+  * Published data from HMDA filings including the [modified LAR](https://ffiec.cfpb.gov/data-publication/modified-lar), [Snapshot National Loan-Level Dataset](https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset), [Disclosure Reports](https://ffiec.cfpb.gov/data-publication/disclosure-reports/2017), and [MSA/MD Aggregate Reports](https://ffiec.cfpb.gov/data-publication/aggregate-reports/2017)
+* Decreased time to data publication by months compared to previous HMDA filing periods
 * The HMDA Filing Platform is open source, giving the HMDA community the ability to track our progress, ask technical questions and request changes, and even build and run the Filing Platform themselves
 
 __Accomplishments__
@@ -41,14 +45,14 @@ __Accomplishments__
 * Responsible for keeping the front-end and back-end in sync with each other by constantly monitoring the progress of the API development and making sure the front-end keeps pace with the implementation
 * Helped establish the use of GitHub issues and project boards to manage sprints
 * Implemented the U.S. Web Design System across all HMDA applications, tools, and sites
-o Customized Keycloak, the Filing Platforms authentication solution
+  * Customized Keycloak, the Filing Platforms authentication solution
 * Developed documentation for the public HMDA API
 * Helped implement the use of container technology, Docker and Docker Compose, on the HMDA team (and ultimately D&D)
-o Developed a solution using Docker volumes to greatly increase the speed of development using Docker Compose
+  * Developed a solution using Docker volumes to greatly increase the speed of development using Docker Compose
 * Continue to push for a more Devops approach on the HMDA Operations team
-o Implemented continuous deployment for the HMDA development stack using Jenkins, Groovy pipelines, and GitHub
+  * Implemented continuous deployment for the HMDA development stack using Jenkins, Groovy pipelines, and GitHub
 * Acting as a mentor for junior developers
-* Worked directly with D&D staff to design, build, and deploy the Rural or Underserved Test
+* Worked directly with D&D staff to design, build, and deploy the [Rural or Underserved Test](https://www.consumerfinance.gov/rural-or-underserved-tool/)
 
 
 #### Web Designer/Developer
