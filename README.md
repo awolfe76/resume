@@ -26,8 +26,8 @@ December 2014 to Present – [The Bureau of Consumer Financial Protection](https
 
 #### Highlights
 
-* Led the front-end development to the successful release of the HMDA Filing Platform on January 1, 2018
-  * Through January 1st to March 1st the [HMDA Filing Platform](https://ffiec.cfpb.gov) successfully processed HMDA files for nearly 6,000 financial institutions containing over 14 million loan/application register (LAR)
+* Led the front-end development to the successful release of the [HMDA Filing Platform](https://ffiec.cfpb.gov) on January 1, 2018
+  * Through January 1st to March 1st the HMDA Filing Platform successfully processed HMDA files for nearly 6,000 financial institutions containing over 14 million loan/application register (LAR)
   * The platform improved the processing time per file from months to minutes for most filers and hours for large filers
 * Successfully ran a beta version of the HMDA Filing Platform and, based on user testing, implemented enhancements and bug fixes prior to the Congressionally mandated release date of January 1, 2018
 * Have assisted in building, testing, and releasing more than 8 applications/tools related to HMDA filing and publication 
