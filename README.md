@@ -1,26 +1,31 @@
 # John Andrew Wolfe
 
 Personal GitHub Account: https://github.com/awolfe76
+
 Personal Site: https://awolfe76.github.com
+
 Dribbble Account: http://dribbble.com/awolfe76
 
 ## Education
 
 ### Bachelors in Computer Science (Information Systems)
+
 _Minor in Business Administration_
 
 2002 – Frostburg State University, Frostburg, MD 
 
 ### Associates in Computer Science
-2000 – Allegany Community College, Cumberland, MD
 
+2000 – Allegany Community College, Cumberland, MD
 
 ## Experience
 
 ### Lead Front-End Web Developer (HMDA Operations)
+
 December 2014 to Present – [The Bureau of Consumer Financial Protection](https://www.consumerfinance.gov/)
 
-__Highlights__
+#### Highlights
+
 * Led the front-end development to the successful release of the HMDA Filing Platform on January 1, 2018
   * Through January 1st to March 1st the [HMDA Filing Platform](https://ffiec.cfpb.gov) successfully processed HMDA files for nearly 6,000 financial institutions containing over 14 million loan/application register (LAR)
   * The platform improved the processing time per file from months to minutes for most filers and hours for large filers
@@ -31,7 +36,8 @@ __Highlights__
 * Decreased time to data publication by months compared to previous HMDA filing periods
 * The HMDA Filing Platform is open source, giving the HMDA community the ability to track our progress, ask technical questions and request changes, and even build and run the Filing Platform themselves
 
-__Accomplishments__
+#### Accomplishments
+
 * Consistently drive the team toward releasing products
 * Develop prototypes for nearly all HMDA products in order to better evaluate and test designs, gather better requirements, and to better understand problems
 * Responsible for keeping the front-end and back-end in sync with each other by constantly monitoring the progress of the API development and making sure the front-end keeps pace with the implementation
@@ -46,11 +52,12 @@ __Accomplishments__
 * Acting as a mentor for junior developers
 * Worked directly with D&D staff to design, build, and deploy the [Rural or Underserved Test](https://www.consumerfinance.gov/rural-or-underserved-tool/)
 
-
 ### Web Designer/Developer
+
 March 2012 to December 2014 – The Federal Communications Commission (FCC)
 
-__Duties as Web Designer/Developer__
+#### Duties as Web Designer/Developer
+
 * Responsible for designing and implementing internet, intranet and extranet websites, web pages and web applications
 * Performs detailed design, code, and test of computer programs and software for computer networks used in support of systems environment as part of an Agile development team
 * Develop new and/or modify methods and techniques to store, manipulate and transfer information by means of software design and analysis of web database programs used in a management information system
@@ -59,22 +66,28 @@ __Duties as Web Designer/Developer__
 * Currently participating in Project Open Data at the FCC by gathering information on all data sets available at the FCC
 * Developing frontend framework to enhance /maps portion of FCC.gov
 
-__Skills__
+#### Skills
+
 * HTML, CSS, JavaScript (jQuery), XML, SQL, JSON(P), GEOJSON, Git, Github, Drupal, D3, Jekyll, Leaflet.js, Mapbox.js, APIs
 
-__Software__
+#### Software
+
 * Sublime Text, Photoshop, Git, Github, MAMP, Drupal
 
-__Work Examples__
+#### Work Examples
+
 * Competition Report http://fcc.github.io/competition-reports/mobile-wireless/16/
 * LEARN http://wireless.fcc.gov/incentiveauctions/learn-program/
 
 
 ### Development Team Lead, Web Designer/Developer for Coast Guard (CG) Portal
+
 October 2007 to March 2012 – GDIT (APLES), Dell & Perot Systems (SETS II)
+
 _Contractor for the United States Coast Guard, Operations Systems Center (OSC)_
 
-__Duties as Development Team Lead__
+#### Duties as Development Team Lead
+
 * Managed web application release cycles
   * Participated in requirements gathering process
   * Documented functional requirements to include data flow and development logic and to promote code reuse and consistent coding techniques
@@ -89,7 +102,8 @@ __Duties as Development Team Lead__
 o Prepared agenda based on current release cycle requirements
 * Provided technical information to support staff on functions and operations of the application
 
-__Duties as Web Designer/Developer__
+#### Duties as Web Designer/Developer
+
 * Responsible for designing and implementing internet, intranet and extranet websites, web pages and web applications o Performs detailed design, code, and test of computer programs and software for computer networks used in support of systems environment
 * Developed new and/or modify methods and techniques to store, manipulate and transfer information by means of software design and analysis of web database programs used in a management information system
 * Customized user interfaces for CG Portal applications
@@ -97,21 +111,27 @@ __Duties as Web Designer/Developer__
 * Created theme for all CG Portal applications
 * Designed functional mock-ups to assist development staff
 
-__Skills__
+#### Skills
+
 * HTML, CSS, PHP, JSP, JavaScript (jQuery), XML, SQL
 
-__Software__
+#### Software
+
 * Dreamweaver, Photoshop, ClearQuest, ClearCase, CollabNet (SVN), Visio, Microsoft Project, Oracle
 
-__COTS Products__
+#### COTS Products
+
 * FatWire (Content Management System), IBM’s Quickr (Collaboration), IBM’s WebSphere Portal
 
 
 ### Web Designer/Developer
+
 August 2006 to October 2007 – Asgard Avionics
+
 _Subcontractor for Lockheed Martin Corporation_
 
-__Duties__
+#### Duties
+
 * Converted classic ASP and PHP web applications to .NET (C#)
 * Developed enhancements to custom PHP CMS tool
 * Worked with customer to gather enhancement requirements
@@ -120,18 +140,23 @@ __Duties__
 * Designed websites and Flash and PowerPoint presentations for internal Lockheed Martin organizations
 * Designed UI for custom desktop application
 
-__Skills__
+#### Skills
+
 * HTML, CSS, .NET, PHP, JavaScript, XML, SQL, ActionScript
 
-__Software__
+#### Software
+
 * Dreamweaver, Photoshop, Flash, Visual Studio, phpMyAdmin, Access, MySQL, MSSQL
 
 
 ### Web Designer/Developer
-September 2004 to October 2007 – Embedded Systems Design, Inc.
-Contractor for the National Security Agency (NSA)
 
-__Duties__
+September 2004 to October 2007 – Embedded Systems Design, Inc.
+
+_Contractor for the National Security Agency (NSA)_
+
+#### Duties
+
 * Developed ESD’s intranet, Employee Web Access, website using Macromedia Dreamweaver for html and PHP development and Adobe Photoshop for layout and graphics creation
 * Designed and created intranet database using PostgreSQL
 * Worked with ESD’s upper management to support the company’s print design needs through creation of hardware development datasheets, corporate capabilities handouts, and event flyer design
@@ -145,22 +170,27 @@ __Duties__
 * Ensured that all web applications and web pages comply with existing security requirements
 * Worked with customer leadership to successfully bring all organization employees up-to-date with current web browser technologies o Developed and improved skills in XML and JavaScript Assisted customer with daily issues involving Microsoft Office basics, minor network / printer troubles, and other technology needs
 
-__Skills__
+#### Skills
+
 * HTML, CSS, PHP, JavaScript, SQL, XML
 
-__Software__
+#### Software
+
 * Dreamweaver, Photoshop, phpMyAdmin, Oracle, PostgreSQL
 
-
 ### Junior Application Developer/Web Designer
+
 June 2003 to August 2004 – TDEC
 
-__Duties__
+#### Duties
+
 * Replaced legacy software applications using VB.NET and ASP.NET to develop web based, data-entry applications
 * Completed redesign and enhancement of the company’s corporate website using Dreamweaver and FrontPage for HTML and PHP development and Photoshop for layout and graphics creation 
 
-__Skills__
+#### Skills
+
 * HTML, CSS, .NET, PHP, SQL
 
-__Software__
+#### Software
+
 * Dreamweaver, Photoshop, Visual Studio, FrontPage, MSSQL, Access
