@@ -54,7 +54,7 @@ December 2014 to Present – [The Bureau of Consumer Financial Protection](https
 
 ### Web Designer/Developer
 
-March 2012 to December 2014 – The Federal Communications Commission (FCC)
+March 2012 to December 2014 – [The Federal Communications Commission (FCC)](https://www.fcc.gov/)
 
 #### Duties as Web Designer/Developer
 
@@ -76,15 +76,15 @@ March 2012 to December 2014 – The Federal Communications Commission (FCC)
 
 #### Work Examples
 
-* Competition Report http://fcc.github.io/competition-reports/mobile-wireless/16/
-* LEARN http://wireless.fcc.gov/incentiveauctions/learn-program/
+* [Competition Report](http://fcc.github.io/competition-reports/mobile-wireless/16/)
+* [LEARN](http://wireless.fcc.gov/incentiveauctions/learn-program/)
 
 
 ### Development Team Lead, Web Designer/Developer for Coast Guard (CG) Portal
 
 October 2007 to March 2012 – GDIT (APLES), Dell & Perot Systems (SETS II)
 
-_Contractor for the United States Coast Guard, Operations Systems Center (OSC)_
+_Contractor for the [United States Coast Guard, Operations Systems Center (OSC)](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-C4IT-CG-6/Operations-Systems-Center-OSC/)_
 
 #### Duties as Development Team Lead
 
