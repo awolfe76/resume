@@ -1,31 +1,23 @@
 # John Andrew Wolfe
 
-6878 Appleton Drive Fayetteville, PA 17222
-
-304-596-1509
-
-awolfe76@gmail.com
-
 Personal GitHub Account: https://github.com/awolfe76
-
 Personal Site: https://awolfe76.github.com
-
 Dribbble Account: http://dribbble.com/awolfe76
 
 ## Education
 
-#### Bachelors in Computer Science (Information Systems)
+### Bachelors in Computer Science (Information Systems)
 _Minor in Business Administration_
 
 2002 – Frostburg State University, Frostburg, MD 
 
-#### Associates in Computer Science
+### Associates in Computer Science
 2000 – Allegany Community College, Cumberland, MD
 
 
 ## Experience
 
-#### Lead Front-End Web Developer (HMDA Operations)
+### Lead Front-End Web Developer (HMDA Operations)
 December 2014 to Present – [The Bureau of Consumer Financial Protection](https://www.consumerfinance.gov/)
 
 __Highlights__
@@ -55,7 +47,7 @@ __Accomplishments__
 * Worked directly with D&D staff to design, build, and deploy the [Rural or Underserved Test](https://www.consumerfinance.gov/rural-or-underserved-tool/)
 
 
-#### Web Designer/Developer
+### Web Designer/Developer
 March 2012 to December 2014 – The Federal Communications Commission (FCC)
 
 __Duties as Web Designer/Developer__
@@ -78,7 +70,7 @@ __Work Examples__
 * LEARN http://wireless.fcc.gov/incentiveauctions/learn-program/
 
 
-#### Development Team Lead, Web Designer/Developer for Coast Guard (CG) Portal
+### Development Team Lead, Web Designer/Developer for Coast Guard (CG) Portal
 October 2007 to March 2012 – GDIT (APLES), Dell & Perot Systems (SETS II)
 _Contractor for the United States Coast Guard, Operations Systems Center (OSC)_
 
@@ -115,7 +107,7 @@ __COTS Products__
 * FatWire (Content Management System), IBM’s Quickr (Collaboration), IBM’s WebSphere Portal
 
 
-#### Web Designer/Developer
+### Web Designer/Developer
 August 2006 to October 2007 – Asgard Avionics
 _Subcontractor for Lockheed Martin Corporation_
 
@@ -135,7 +127,7 @@ __Software__
 * Dreamweaver, Photoshop, Flash, Visual Studio, phpMyAdmin, Access, MySQL, MSSQL
 
 
-#### Web Designer/Developer
+### Web Designer/Developer
 September 2004 to October 2007 – Embedded Systems Design, Inc.
 Contractor for the National Security Agency (NSA)
 
@@ -160,7 +152,7 @@ __Software__
 * Dreamweaver, Photoshop, phpMyAdmin, Oracle, PostgreSQL
 
 
-#### Junior Application Developer/Web Designer
+### Junior Application Developer/Web Designer
 June 2003 to August 2004 – TDEC
 
 __Duties__
